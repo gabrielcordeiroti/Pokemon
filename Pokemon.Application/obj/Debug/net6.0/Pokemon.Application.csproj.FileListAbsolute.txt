@@ -1,0 +1,17 @@
+D:\KotasTest\Pokemon\Pokemon.Application\bin\Debug\net6.0\Pokemon.Application.deps.json
+D:\KotasTest\Pokemon\Pokemon.Application\bin\Debug\net6.0\Pokemon.Application.dll
+D:\KotasTest\Pokemon\Pokemon.Application\bin\Debug\net6.0\Pokemon.Application.pdb
+D:\KotasTest\Pokemon\Pokemon.Application\obj\Debug\net6.0\Pokemon.Application.csproj.AssemblyReference.cache
+D:\KotasTest\Pokemon\Pokemon.Application\obj\Debug\net6.0\Pokemon.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\KotasTest\Pokemon\Pokemon.Application\obj\Debug\net6.0\Pokemon.Application.AssemblyInfoInputs.cache
+D:\KotasTest\Pokemon\Pokemon.Application\obj\Debug\net6.0\Pokemon.Application.AssemblyInfo.cs
+D:\KotasTest\Pokemon\Pokemon.Application\obj\Debug\net6.0\Pokemon.Application.csproj.CoreCompileInputs.cache
+D:\KotasTest\Pokemon\Pokemon.Application\obj\Debug\net6.0\Pokemon.Application.dll
+D:\KotasTest\Pokemon\Pokemon.Application\obj\Debug\net6.0\refint\Pokemon.Application.dll
+D:\KotasTest\Pokemon\Pokemon.Application\obj\Debug\net6.0\Pokemon.Application.pdb
+D:\KotasTest\Pokemon\Pokemon.Application\obj\Debug\net6.0\ref\Pokemon.Application.dll
+D:\KotasTest\Pokemon\Pokemon.Application\bin\Debug\net6.0\Pokemon.Domain.dll
+D:\KotasTest\Pokemon\Pokemon.Application\bin\Debug\net6.0\Pokemon.Domain.pdb
+D:\KotasTest\Pokemon\Pokemon.Application\obj\Debug\net6.0\Pokemon.Application.csproj.CopyComplete
+D:\KotasTest\Pokemon\Pokemon.Application\bin\Debug\net6.0\Pokemon.Application.runtimeconfig.json
+D:\KotasTest\Pokemon\Pokemon.Application\obj\Debug\net6.0\Pokemon.Application.genruntimeconfig.cache
